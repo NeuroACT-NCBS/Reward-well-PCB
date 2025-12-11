@@ -1296,7 +1296,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 171.45 110.49 90)
 			(effects
 				(font
@@ -1304,7 +1304,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "SMA:R_tht1270_smd3216"
 			(at 171.45 112.522 90)
 			(effects
 				(font
@@ -1509,7 +1509,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 173.99 85.09 90)
 			(effects
 				(font
@@ -1517,7 +1517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "SMA:R_tht1270_smd3216"
 			(at 173.99 87.122 90)
 			(effects
 				(font
@@ -1654,7 +1654,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 173.99 97.79 90)
 			(effects
 				(font
@@ -1662,7 +1662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "SMA:R_tht1270_smd3216"
 			(at 173.99 99.822 90)
 			(effects
 				(font
