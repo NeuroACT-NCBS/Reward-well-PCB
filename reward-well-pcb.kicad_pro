@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "reward_well.kicad_pro",
+    "filename": "reward-well-pcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -504,9 +504,9 @@
       "plot": "prototypes/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "reward_well.step",
+      "step": "reward-well-pcb.step",
       "svg": "",
-      "vrml": "reward_well.wrl"
+      "vrml": "reward-well-pcb.wrl"
     },
     "page_layout_descr_file": ""
   },
